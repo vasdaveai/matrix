@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://vasdaveai.github.io/matrix/</loc>
-    <lastmod>2025-08-27</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://vasdaveai.github.io/matrix/about.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://vasdaveai.github.io/matrix/services.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://vasdaveai.github.io/matrix/blog.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://vasdaveai.github.io/matrix/contact.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://vasdaveai.github.io/matrix/privacy.html</loc>
-    <lastmod>2025-08-27</lastmod>
-    <priority>0.64</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vasdaveai.github.io/matrix/</loc><lastmod>2025-08-27</lastmod></url>
+  <url><loc>https://vasdaveai.github.io/matrix/about.html</loc><lastmod>2025-08-27</lastmod></url>
+  <url><loc>https://vasdaveai.github.io/matrix/services.html</loc><lastmod>2025-08-27</lastmod></url>
+  <url><loc>https://vasdaveai.github.io/matrix/blog.html</loc><lastmod>2025-08-27</lastmod></url>
+  <url><loc>https://vasdaveai.github.io/matrix/contact.html</loc><lastmod>2025-08-27</lastmod></url>
+  <url><loc>https://vasdaveai.github.io/matrix/privacy.html</loc><lastmod>2025-08-27</lastmod></url>
 </urlset>
